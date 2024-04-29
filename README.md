@@ -10,10 +10,8 @@ These are just pages for my profile, you'll find all of them on the main domain 
     for the Code of Conduct
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
-  - [DART](https://dart.dev/) - Used for general code
-  - [KOTLIN](https://kotlinlang.org/) - Android mechanics
-  - [XML](https://www.w3schools.com/xml/) - Android mechanics
-  - [SWIFT](https://developer.apple.com/swift/) - IOS mechanics
+  - [PHP](https://www.php.net/) - Used for general code
+  - [HTML, CSS and JS](https://www.w3schools.com/html/) - Used for general content, styling and logic
 
 ## Versioning
 
