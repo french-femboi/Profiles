@@ -1,8 +1,7 @@
 
-
 # Profiles
 
-These are just pages for my profile, you'll find all of them on the main domain hehe
+These are just pages for my profile, you'll find all of them on the main domain hehe. Basically a list of everything you need to know about me and everything I'm working on. This doesn't have any dev branch, since it doesn't really need it -> Manual uploads
 
 ## Built With
 
