@@ -131,5 +131,26 @@ body {
       padding-bottom: 3px;
     }
 
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      grid-gap: 20px;
+  }
+  
+  .grid-item {
+      background-color: #14101b;
+      padding: 20px;
+      border-radius: 15px;
+      border: 1px solid #362842;
+      transition: 0.5s;
+  }
+
+  .grid-item:hover {
+    background-color: #181320;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #514061;
+    transition: 0.5s;
+}
   
   
