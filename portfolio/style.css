@@ -86,6 +86,14 @@ body {
         border-bottom: 1px solid #362842;
     }
 
+    .bbottom2 {
+      border-bottom: 3px solid #483657;
+  }
+
+  .btop2 {
+    border-top: 3px solid #483657;
+}
+
     .emoji{
         max-height: 20px;
     }
@@ -123,16 +131,5 @@ body {
       padding-bottom: 3px;
     }
 
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-      grid-gap: 20px;
-  }
   
-  .grid-item {
-      background-color: #14101b;
-      padding: 20px;
-      border-radius: 15px;
-      border: 1px solid #362842;
-  }
   
