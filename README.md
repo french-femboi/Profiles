@@ -27,7 +27,7 @@ This project is licensed under the [APACHE-2.0](LICENSE)
 GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE) file for
 details
 
-## Plesk script
+## Plesk script (adapt to needs)
 
     rm -r nekopack
     mv info/* .
