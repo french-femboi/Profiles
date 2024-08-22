@@ -1,7 +1,7 @@
 
 # Profiles
 
-These are just pages for my profile, you'll find all of them on the main domain hehe. Basically a list of everything you need to know about me and everything I'm working on. This doesn't have any dev branch, since it doesn't really need it -> Manual uploads
+These are just pages for my profile, you'll find all of them on the main domain hehe. Basically a list of everything you need to know about me and everything I'm working on. This doesn't have any dev branch, since it doesn't really need it -> Semi manual uploads
 
 ## Built With
 
@@ -23,8 +23,8 @@ We use [GIT](https://git-scm.com/) for versioning and code review.
 
 ## License
 
-This project is licensed under the [APACHE-2.0](LICENSE)
-GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE) file for
+This project is licensed under the [BSD-3](LICENSE)
+CLAUSE LICENSE - see the [LICENSE.md](LICENSE) file for
 details
 
 ## Plesk script (adapt to needs)
