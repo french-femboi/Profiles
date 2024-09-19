@@ -113,3 +113,35 @@ body {
     li.biglist{
         margin: 5px;
     }
+
+    .alive {
+      color: #a5f894;
+    }
+
+    .alive:hover {
+      color: #a5f894;
+    }
+
+    .dead {
+      color: #f89494;
+    }
+
+    .dead:hover {
+      color: #f89494;
+    }
+
+    .suspended {
+      color: #f8e194;
+    }
+
+    .suspended:hover {
+      color: #f8e194;
+    }
+
+    .eol {
+      color: #94dcf8;
+    }
+
+    .eol:hover {
+      color: #94dcf8;
+    }
