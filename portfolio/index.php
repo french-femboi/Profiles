@@ -85,7 +85,7 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
         </h1>
         <p class="mt-6 text-lg leading-8 text-gray-300">Welcome to my portfolio! On here you'll find everything about the experience I'v accummulated over the years, including work, hobbies, school and even more :")</p>
         <div class="mt-10 flex items-center gap-x-6">
-          <a href="/" class="rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400">Home</a>
+          <a href="https://french-femboi.eu" class="rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400">Home</a>
         </div>
       </div>
     </div>
