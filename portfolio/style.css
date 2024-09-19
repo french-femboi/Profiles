@@ -86,14 +86,6 @@ body {
         border-bottom: 1px solid #362842;
     }
 
-    .bbottom2 {
-      border-bottom: 3px solid #483657;
-  }
-
-  .btop2 {
-    border-top: 3px solid #483657;
-}
-
     .emoji{
         max-height: 20px;
     }
@@ -122,34 +114,34 @@ body {
         margin: 5px;
     }
 
-    .btn {
-      border-radius: 20px;
-      border: 1px solid #d494f8;
-      padding-left: 20px;
-      padding-right: 20px;
-      padding-top: 3px;
-      padding-bottom: 3px;
+    .alive {
+      color: #a5f894;
     }
 
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-      grid-gap: 20px;
-  }
-  
-  .grid-item {
-      background-color: #14101b;
-      padding: 20px;
-      border-radius: 15px;
-      border: 1px solid #362842;
-      transition: 0.5s;
-  }
+    .alive:hover {
+      color: #a5f894;
+    }
 
-  .grid-item:hover {
-    background-color: #181320;
-    padding: 20px;
-    border-radius: 15px;
-    border: 1px solid #514061;
-    transition: 0.5s;
-}
-  
+    .dead {
+      color: #f89494;
+    }
+
+    .dead:hover {
+      color: #f89494;
+    }
+
+    .suspended {
+      color: #f8e194;
+    }
+
+    .suspended:hover {
+      color: #f8e194;
+    }
+
+    .eol {
+      color: #94dcf8;
+    }
+
+    .eol:hover {
+      color: #94dcf8;
+    }
