@@ -29,9 +29,10 @@ details
 
 ## Plesk script (adapt to needs)
 
-    rm -r nekopack
-    mv info/* .
+    rm -r node_modules
+    rm -r src
+    rm -r inc
+    mv projects/* .
     rm -r info
     rm -r portfolio
     rm -r projects
-    rm -r selection
