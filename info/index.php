@@ -101,7 +101,7 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Relationship status</h3>
-        <p class="text-gray-400">Happily taken by my nugget :3</p>
+        <p class="text-gray-400">I'm lonely again :<</p>
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">What people actually call me</h3>
@@ -141,7 +141,7 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Sexuality</h3>
-        <p class="text-gray-400">very gay (not poly, so don't ask for relationships, I love my nugget)</p>
+        <p class="text-gray-400">very gay (not poly, so don't ask for relationships if i'm already in one)</p>
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Languages</h3>
