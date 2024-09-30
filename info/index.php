@@ -130,11 +130,11 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Dislikes</h3>
-        <p class="text-gray-400">lies, anxiety, physical touch, being bored, phone calls, being forced to do stuff</p>
+        <p class="text-gray-400">lies, anxiety, physical touch, being bored, phone calls (with people I don't know), being forced to do stuff</p>
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Personality</h3>
-        <p class="text-gray-400">quiet, introverted, clingy</p>
+        <p class="text-gray-400">quiet, introverted, clingy, shy, (cute?)</p>
       </div>
       <div class="bg-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl font-bold text-white mb-2">Personality type</h3>
