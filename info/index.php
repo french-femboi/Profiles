@@ -91,7 +91,32 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
       </div>
     </div>
   </div>
-
+  <!--- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡟⠀⠈⠹⢷⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡾⠏⠉⢰⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⠀⠀⠈⡻⣷⣄⣠⣤⡦⠤⣶⣤⣄⣸⡏⢿⣦⡀⠀⠀⠀⠀⠀⠀⣠⡶⠛⠁⠀⠁⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠀⠀⠀⠀⠘⢿⣯⡉⠁⠀⠀⠀⠀⠉⢻⡇⠀⠘⣷⡀⠀⢀⣄⣰⡾⠋⠀⠀⠀⠀⠀⠀⠀⢸⡇              Uh oh this guy is gonna blow up this code
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠒⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣄⣴⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇                pay a ransom of 1000$ to stop the explosion
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇
+⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣠⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠂              (or go kiss a boy, that works too)
+⢻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⣴⠟⠁⣨⣿⣦⠀⠀⠀⠀⠀⠀⠀⢰⠟⠉⣁⣀⡈⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀  
+⠘⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦⢠⠀⠀⣴⠏⠀⢰⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡄⠘⢿⡄⠀⠀⠀⠀⢀⣼⠟⠀⠀
+⠀⠘⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⢀⣀⣀⡙⠿⠀⠀⡿⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣷⠀⠘⣯⠀⠀⢀⣠⣽⣥⣤⣤⡀
+⠀⠀⠈⠻⣦⡀⠀⠀⠀⢀⣤⣤⡀⠀⡞⡏⠙⣦⢀⠀⠀⠀⢻⣟⠙⠛⢿⠓⠐⡇⠀⠀⠘⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⠀⠀⠿⠀⠀⠀⠭⡀⣠⣴⠾⠃
+⠀⠀⠀⠀⠙⠻⣦⣀⣠⡾⣟⣏⣿⣿⣿⣇⣧⣸⣧⡀⠀⣀⡀⠙⢷⣄⠀⠀⠄⡅⠀⠀⠀⠈⠿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠛⢁⣀⠄⠀⠀⠀⠀⣾⡛⠉⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⣻⠋⣄⣭⣟⣿⣿⣿⣿⣿⣿⣿⣿⣷⣷⣿⡧⠀⣽⠏⠚⢻⣧⢾⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢲⠟⣿⣴⣾⠇⠀⠀⠈⢻⣆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⢥⣻⡿⣿⣿⠜⢋⡛⠻⣿⣿⣿⣿⣿⣿⣿⣸⡟⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⢀⢠⣀⡀⠀⣠⡄⠀⠀⠀⠀⠀⠀⠈⠀⠀⢀⡀⣤⣤⣤⡿⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠷⣿⣾⣿⣿⡏⠲⣾⣯⣯⡍⡛⢛⢟⣾⣿⣿⣿⣷⣶⡶⢾⣤⣀⠀⠀⠀⠀⠀⠶⠾⠟⠉⠛⠛⠋⠁⠀⠀⠀⠀⠀⢀⣀⣤⠶⠟⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⠋⣶⣧⣿⣿⣯⣗⡱⣁⠀⠨⣝⢿⣿⣾⣽⣟⢲⣾⣿⣛⣷⣶⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣾⠛⠉⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣷⣿⣿⣿⣾⣽⡲⢿⣾⣿⣿⣽⠉⠊⠂⣙⣻⡿⠯⢍⣛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢳⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣟⠋⠉⠻⣿⣿⢿⣿⣿⣿⣻⣿⠛⠻⠆⢤⡀⠈⠁⠀⠀⠨⠟⢲⣤⣀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡜⠍⢆⠀⢠⠋⡌⣱⡻⠛⠻⣿⣇⡀⠀⠀⠀⠀⠀⠤⡀⠀⠀⠀⠀⠁⠈⣻⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⡿⠤⣄⠃⠐⠨⢠⣟⣽⠁⠀⠀⠅⠀⠀⢤⣄⣠⠤⠤⣌⠀⠂⠀⠀⡀⠀⡽⣿⢿⡏⣬⡇⠀⠀⠀⠀⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠫⠧⠟⠦⣤⣴⠏⡌⠊⠀⢀⠂⠀⠀⠀⠀⡼⡩⠀⢰⣽⡦⣄⣠⠴⠛⣻⣿⣷⠒⠹⣿⠃⠀⠀⠀⠀⠀⠀⠀⠿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠈⠁⠀⠠⠮⠂⠀⠀⠀⠘⠁⠙⢆⡮⢿⠟⠉⠀⣀⢐⣷⡿⢿⣶⣵⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣄⣐⣀⡴⠐⢤⠀⡄⠀⠀⠀⠀⢀⠀⠀⠀⢀⣀⡴⠓⠿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+   --->
   <div class="container mx-auto px-6 py-10">
     <h2 class="text-2xl font-bold text-white mb-6">Basics</h2>
     <h2 class="text-1xl font-bold text-gray-400 mb-6">Haiii, I'm Catpawz , here are some key points about me :) (and yes, in case you didn't notice yet, I'm a femboi :3 and kind of the stereotypical dev boi)</h2>
@@ -215,7 +240,6 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
         <p class="text-gray-400">It's possible that I don't understand jokes, that I don't get signals and that i'm slow with some things -solution-> If you want something from me, please be specific! I would appreciate if you could use tone tags if it's possible :)</p>
       </div>
     </div>
-    <h2 class="text-1xl font-bold text-gray-200 mb-6 pt-4">As much as I like calling people, calls are kind of really stressful for me... If i need to tell you something important, i'll probably do it through messages or in person!</h2>
     <h2 class="text-1xl font-bold text-gray-200 mb-6">As much as I like calling people, calls are kind of really stressful for me... If i need to tell you something important, i'll probably do it through messages or in person!</h2>
     <h2 class="text-1xl font-bold text-gray-200 mb-6">Generally I do want to talk to you, but I probably won't say a lot because I either misinterpret your "signals" or because I'm scared of annoying you. Pleeaaaase tell me if you want me to write to you a lot or not :")</h2>
   </div>
