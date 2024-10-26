@@ -27,7 +27,7 @@ This project is licensed under the [BSD-3](LICENSE)
 CLAUSE LICENSE - see the [LICENSE.md](LICENSE) file for
 details
 
-## Plesk script (adapt to needs)
+## Plesk script (adapt to each website)
 
     rm -r node_modules
     rm -r src
