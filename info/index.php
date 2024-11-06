@@ -172,6 +172,10 @@ Y8,            ,adPPPPP88    88     88       d8  ,adPPPPP88   `8b  d8'`8b  d8'  
         <h3 class="text-xl font-bold text-white mb-2">Languages</h3>
         <p class="text-gray-400">French, English, German and a bit of Spanish</p>
       </div>
+      <div class="bg-gray-800 rounded-lg shadow-lg p-6">
+        <h3 class="text-xl font-bold text-white mb-2">DM Status</h3>
+        <p class="text-gray-400">DM me if you want, but give me some time to answer please >w< </p>
+      </div>
     </div>
     <h2 class="text-1xl font-bold text-gray-200 mb-6 pt-4">I'm suffering from high social anxiety, pleaaase bear with me :") it's also possible that I don't message you much, because I'm scared of annoying you :< or because I get a looooot of dms and can't keep up with em so pleaseeee spam me if I don't respond...</h2>
     <h2 class="text-1xl font-bold text-gray-200 mb-6">When we first meet, I probably won't open up too much, this happens with time for me as I've been in bad relationships before... sowwy. I hate some people for judging me based on what I am, and it hurts... so please, if you don't like something about me, or judge people a lot, don't even bother trying to contact me...</h2>
